@@ -26,3 +26,9 @@ Here I am implementing second one . We simulate this experiment 10 times to get 
 By counting the number of elements , in the "ends" list , that are greater than or equal to 60 we can calculate the chance
 
 In this particular np.random.seed(246) the chances are 78.4%
+
+
+Data Visualization -
+
+![Plot for Single experiment]
+https://github.com/shivanshuman021/RandomWalk/blob/master/simulation_plot.png
