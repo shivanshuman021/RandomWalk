@@ -32,3 +32,5 @@ Data Visualization -
 
 
 [[https://github.com/shivanshuman021/RandomWalk/blob/master/simulation_plot.png]]
+[[https://github.com/shivanshuman021/RandomWalk/blob/master/simulation_plot.png]]
+[[https://github.com/shivanshuman021/RandomWalk/blob/master/simulation_plot_transpose.png]]
