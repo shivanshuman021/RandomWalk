@@ -31,6 +31,9 @@ In this particular np.random.seed(246) the chances are 78.4%
 Data Visualization -
 
 
-[[https://github.com/shivanshuman021/RandomWalk/blob/master/simulation_plot.png]]
+Single Experiment-
+[[https://github.com/shivanshuman021/RandomWalk/blob/master/plot.png]]
+
+Simulation -
 [[https://github.com/shivanshuman021/RandomWalk/blob/master/simulation_plot.png]]
 [[https://github.com/shivanshuman021/RandomWalk/blob/master/simulation_plot_transpose.png]]
