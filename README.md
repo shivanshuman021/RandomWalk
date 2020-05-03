@@ -32,7 +32,7 @@ Data Visualization -
 
 
 Single Experiment-
-[[https://github.com/shivanshuman021/RandomWalk/blob/master/plot.png]]
+![caption-alt-text](https://github.com/shivanshuman021/RandomWalk/blob/master/plot.png)
 
 Simulation -
 [[https://github.com/shivanshuman021/RandomWalk/blob/master/simulation_plot.png]]
